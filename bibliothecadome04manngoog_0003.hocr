@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "bibliothecadome04manngoog_0003.png"; bbox 0 0 567 938; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 85 238 498 317">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 85 238 498 317">
+     <span class='ocr_line' id='line_1_1' title="bbox 85 238 498 317; baseline -0.003 -52.953"><span class='ocrx_word' id='word_1_1' title='bbox 85 238 498 317; x_wconf 48' lang='lat' dir='ltr'><strong>ussbsssstflbssssn</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 50 264 567 503">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 50 264 493 503">
+     <span class='ocr_line' id='line_1_2' title="bbox 50 264 375 503; baseline 0 -163"><span class='ocrx_word' id='word_1_2' title='bbox 50 264 128 503; x_wconf 63' lang='grc' dir='ltr'>ξ</span> <span class='ocrx_word' id='word_1_3' title='bbox 183 320 287 341; x_wconf 68' lang='grc' dir='ltr'><strong>,ἘιΜιο</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 279 286 327 340; x_wconf 67' lang='grc' dir='ltr'><strong>Διεὶι</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 345 327 375 340; x_wconf 77' lang='lat' dir='ltr'><strong>nm</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 161 316 567 426; baseline -0.009 -42"><span class='ocrx_word' id='word_1_6' title='bbox 161 327 340 390; x_wconf 74' lang='lat' dir='ltr'>Capituli</span> <span class='ocrx_word' id='word_1_7' title='bbox 324 367 353 382; x_wconf 86' lang='lat' dir='ltr'><strong>ru</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 378 359 432 382; x_wconf 74' lang='lat' dir='ltr'><strong>asli</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 437 316 567 426; x_wconf 43' lang='lat'><strong>3</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 175 403 420 439; baseline -0.004 0"><span class='ocrx_word' id='word_1_10' title='bbox 175 403 420 439; x_wconf 83' lang='lat' dir='ltr'><strong>Stiefenhofen.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 125 427 498 507">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 125 427 498 507">
+     <span class='ocr_line' id='line_1_5' title="bbox 125 427 498 507; baseline -0.008 -4"><span class='ocrx_word' id='word_1_11' title='bbox 125 427 498 507; x_wconf 39' lang='lat' dir='ltr'><strong>meki}</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
